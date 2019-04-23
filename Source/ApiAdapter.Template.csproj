@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.0" />
+    <PackageReference Include="Otc.Caching.Abstractions" Version="1.0.0" />
+    <PackageReference Include="Otc.ComponentModel.Annotations" Version="1.0.1" />
+    <PackageReference Include="Otc.Networking.Http.Client.Abstractions" Version="1.0.0" />
+    <PackageReference Include="Refit" Version="4.6.58" />
+  </ItemGroup>
+
+</Project>

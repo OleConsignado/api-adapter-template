@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Ole Consignado",
+  "classifications": [ "ClassLibrary", "Adapter" ],
+  "identity": "ApiAdapter",
+  "name": "Api Adapter",
+  "shortName": "apiadapter",
+  "sourceName": "ApiAdapter.Template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
